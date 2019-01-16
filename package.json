@@ -1,0 +1,28 @@
+{
+  "name": "eleven01-compiler",
+  "version": "0.0.1",
+  "description": "Eleven01 Compiler creation automating compile and deploying contracts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meegada-Mahesh/Eleven01-Compiler.git"
+  },
+  "keywords": [
+    "Eleven01",
+    "Blockchain",
+    "Nodejs",
+    "Compiler",
+    "web3js",
+    "Ejs"
+  ],
+  "author": "Meegada Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meegada-Mahesh/Eleven01-Compiler/issues"
+  },
+  "homepage": "https://github.com/Meegada-Mahesh/Eleven01-Compiler#readme"
+}
