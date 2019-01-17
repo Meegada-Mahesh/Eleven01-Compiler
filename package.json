@@ -24,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/Meegada-Mahesh/Eleven01-Compiler/issues"
   },
-  "homepage": "https://github.com/Meegada-Mahesh/Eleven01-Compiler#readme"
+  "homepage": "https://github.com/Meegada-Mahesh/Eleven01-Compiler#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "solc": "^0.5.2",
+    "web3": "^1.0.0-beta.37"
+  }
 }
